@@ -40,6 +40,8 @@
   .section__pic-container {
     width: 275px;
     height: 275px;
+    border-radius: 50%;
+    overflow: hidden;
     margin: 0 auto 2rem;
   }
   .about-containers {
@@ -87,8 +89,10 @@
     text-align: center;
   }
   .section__pic-container {
-    width: auto;
-    height: 46vw;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    overflow: hidden;
     justify-content: center;
   }
   .section__text__p2 {
